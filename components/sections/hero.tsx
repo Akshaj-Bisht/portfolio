@@ -49,7 +49,7 @@ export default function Hero() {
         transition={{ delay: 0.15, duration: 0.35 }}
         className="mt-2 text-base text-muted-foreground sm:text-lg md:text-xl"
       >
-        Full Stack Developer, backend-leaning
+        Full Stack Developer
       </motion.h2>
 
       <motion.p

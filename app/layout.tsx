@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     template: "%s | Akshaj Bisht",
   },
   description:
-    "Backend-leaning full stack developer building production-ready web apps with Next.js, TypeScript, PostgreSQL, and Bun.",
+    "A full stack developer building production-ready web apps with Next.js, TypeScript, PostgreSQL, and Bun.",
   keywords: [
     "Akshaj Bisht",
     "Full Stack Developer",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     url: "https://akshajbisht.me",
     title: "Akshaj Bisht | Full Stack Developer",
     description:
-      "Backend-leaning full stack developer building production-ready web apps.",
+      "A full stack developer building production-ready web apps.",
     siteName: "Akshaj Bisht Portfolio",
     images: [
       {
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Akshaj Bisht | Full Stack Developer",
     description:
-      "Backend-leaning full stack developer building production-ready web apps.",
+      "A full stack developer building production-ready web apps.",
     images: ["/og-image.svg"],
   },
 };

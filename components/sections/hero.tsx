@@ -59,7 +59,7 @@ export default function Hero() {
         className="mt-5 max-w-[62ch] text-pretty text-[0.98rem] leading-7 text-foreground/90 sm:text-base sm:leading-8 md:text-lg"
       >
         B.Sc. Computer Science student at the University of Delhi, based in
-        Faridabad, Haryana. I build production-ready web apps with Next.js,
+        Delhi, India. I build production-ready web apps with Next.js,
         TypeScript, and PostgreSQL, and I especially enjoy backend architecture,
         API design, and scalable systems.
       </motion.p>
@@ -83,7 +83,7 @@ export default function Hero() {
           <a href="#projects">View Projects</a>
         </Button>
         <Button asChild variant="outline" size="lg">
-          <a href="/resume.pdf" target="_blank" rel="noreferrer">
+          <a href="/akshaj_bisht_resume.pdf" download="akshaj_bisht_resume.pdf">
             Resume
           </a>
         </Button>

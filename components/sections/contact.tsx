@@ -1,5 +1,6 @@
 import { Mail } from "lucide-react";
-import { SiGithub, SiLinkedin } from "react-icons/si";
+import { FaLinkedinIn } from "react-icons/fa";
+import { SiGithub } from "react-icons/si";
 
 import { Button } from "@/components/ui/button";
 
@@ -32,7 +33,7 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            <SiLinkedin className="size-4" aria-hidden="true" />
+            <FaLinkedinIn className="size-4" aria-hidden="true" />
             LinkedIn
           </a>
         </Button>
